@@ -1,6 +1,6 @@
 Student Verification Code
 
-# generating a QR code
+# Generating a QR code
 
 ## Prerequisites
 - Python 3.x installed on your system
