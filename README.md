@@ -1,4 +1,3 @@
-Student Verification Code
 
 # Generating a QR code
 
